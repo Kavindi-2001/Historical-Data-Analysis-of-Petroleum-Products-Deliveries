@@ -10,7 +10,7 @@ The analysis covers four key petroleum products: 92 Octane, 95 Octane, Lanka Sup
 
 ## 🔗 Live Dashboard
 
-
+![View Interactive Dashboard](dashboard/Petroleum Products Delivery Dashboard.pbix)
 
 ## 🔍 Key Insights
 
